@@ -25,5 +25,5 @@
 ```C++
 cd test
 make
-./test\_seg\_tree\_mem\_mgr
+./test_seg_tree_mem_mgr
 ```
